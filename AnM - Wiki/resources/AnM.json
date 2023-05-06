@@ -1,0 +1,311 @@
+{
+   "AnM": [
+      {
+         "img": "../assets/AnM/AwaAwa.png",
+         "title": "Awa Awa no Mi",
+         "description": {
+            "translate": "Fruta da Bolha de Sabão",
+            "type": "Paramercia",
+            "desc": "Permite ao usuário de emitir e controlar bolhas de sabão e que pode não só limpa a sujeira, mas também pode limpar' o poder do adversário. Awa (泡) significa bolha'.",
+            "user": "Khalifa - CP9"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/BakuBaku.png",
+         "card-title": "Baku Baku no Mi",
+         "card-description": {
+            "card-translate": "Fruta da Comilança",
+            "card-type": "Paramercia",
+            "card-desc": "Consede ao usuário a capacidade de comer qualquer coisa (exceto Kairouseki) até mesmo metais que são coisas inorgânicas fortes quando comidos os itens consumidos podem então ser fundidos ao corpo do usuário para criar uma arma ou ser combinados em conjunto para criar uma outra coisa.",
+            "card-user": "Wapol"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/BaraBara.png",
+         "card-title": "Bara Bara no Mi",
+         "card-description": {
+            "card-translate": "Fruta dos Pedaços",
+            "card-type": "Paramercia",
+            "card-desc": "Permite que o usuário seja imune a ataques cortantes e de ser capaz de dividir seu próprio corpo em pedaços e controlar a referida peças da forma que quiser,principalmente levita-los longe do corpo principal do usuário, fazendo com que o usuário seja um Humano em Pedaços.",
+            "card-user": "Buggy"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/BomuBomu.png",
+         "card-title": "Bomu Bomu no Mi",
+         "card-description": {
+            "card-translate": "Bomba Humana",
+            "card-type": "Paramercia",
+            "card-desc": "Permite ao usuário fazer qualquer parte de seu corpo explodir, seja cabelo, muco ou respiração, tornando o usuário um Bomba Humana (爆 弾 人間 Bakudan Ningen ?).",
+            "card-user": "Gem (Mr.5) - Baroque Works"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/DoruDoru.png",
+         "card-title": "Doru Doru no Mi",
+         "card-description": {
+            "card-translate": "Fruto do Homem Vela",
+            "card-type": "Paramecia",
+            "card-desc": "Permite ao usuário produzir cera do seu corpo e moldá-la em qualquer forma que quiser, tornado- o um Homem-Vela (ろうそく (キャンドル) 人間 Kyandoru Ningen?). Não se sabe se o usuário pode criar cera infinitamente.",
+            "card-user": "Galdino (Mr.3) - Baroque Works"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/GashaGasha.png",
+         "card-title": "Gasha Gasha no Mi",
+         "card-description": {
+            "card-translate": "Fruta da Assimilação",
+            "card-type": "Paramecia",
+            "card-desc": "Permite ao usuário criar coisas combinando objetos inanimados à vontade, tornando-os um Assimilador Humano (合体人間 Gattai Ningen),",
+            "card-user": "Douglas Bullet"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/GuraGura.png",
+         "card-title": "Gura Gura no Mi",
+         "card-description": {
+            "card-translate": "Fruto do Tremor",
+            "card-type": "Paramecia",
+            "card-desc": "Permite ao usuário criar vibrações ou 'tremores', tornando-o um Humano Tremor (震動人間 Shindō Ningen). É umas das Frutas capazes de destruir o mundo.",
+            "card-user": "Marshall D. Teach"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/HanaHana.png",
+         "card-title": "Hana Hana no Mi",
+         "card-description": {
+            "card-translate": "Fruta da Flor",
+            "card-type": "Paramecia",
+            "card-desc": "Permite ao usuário replicar e brotar pedaços de seu corpo a partir da superfície de qualquer objeto ou coisa viva. 'Hana' (花) é a palavra japonesa para 'Floração' e 'Flor', e reflete a natureza do poder do usuário a brotar suas partes do corpo como uma flor que floresce. Como mais uma alusão a este, as partículas de pétala como rosado-branco e, em seguida, formar-se a rodar, de onde as partes germinar e desaparecer, bem como em torno do próprio utilizador.",
+            "card-user": "Nico Robin"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/HebiHebi-ModelYamataNoOrochi.png",
+         "card-title": "Hebi Hebi no Mi - Modelo Yamata no Orochi",
+         "card-description": {
+            "card-translate": "Fruta do Yamata no Orochi",
+            "card-type": "Zoan Mítica",
+            "card-desc": "Permite ao usuário se transformar em uma versão híbrida e completa do Yamata no Orochi, um dragão serpentino de oito cabeças.",
+            "card-user": "Orochi Kuzozumi"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/HitoHito-ModelHuman.png",
+         "card-title": "Hito Hito no Mi: Model Human",
+         "card-description": {
+            "card-translate": "Fruta do Humano",
+            "card-type": "Zoan",
+            "card-desc": "Permite que seu usuário se transforme em um híbrido de humano e um ser humano integral à vontade. 'Hito' é japonês para 'humano.",
+            "card-user": "Tony Tony Chopper"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/HitoHito-ModelKamiNika.png",
+         "card-title": "Hito Hito no Mi: Model: Kami Nika",
+         "card-description": {
+            "card-translate": "Fruta do Deus Nika",
+            "card-type": "Zoan Mítica",
+            "card-desc": "Permite ao usuário se transformar no lendário 'Deus do Sol' Nika e ganhar seus atributos, notavelmente um corpo com propriedades da borracha. O Governo Mundial a renomeou em um esforço para apagar o nome original da história e, como resultado, ela foi reclassificada como uma fruta do tipo Paramecia, chamada Gomu Gomu no Ni, que transforma o usuário em um Homem-Borracha (ゴム人間 Gomu Ningen).",
+            "card-user": "Monkey D. Luffy"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/InuInu-ModelOkuchiNoMakami.png",
+         "card-title": "Inu Inu no Mi: Model Okuchi no Makami",
+         "card-description": {
+            "card-translate": "Fruta do Cachorro - Modelo Okuchi no Makami",
+            "card-type": "Zoan Mítica",
+            "card-desc": "Permite ao usuário se transformar em uma forma híbrida e completa de uma divindade lobo. Segundo Kaidou, este lobo é a 'Divindade Guardiã do País de Wano', o que torna esta Zoan particularmente valiosa.",
+            "card-user": "Yamato"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/ItoIto.png",
+         "card-title": "Ito Ito no Mi",
+         "card-description": {
+            "card-translate": "Fruta do Fio",
+            "card-type": "Paramecia",
+            "card-desc": "Permite ao seu usuário criar e manipular fios extremamente finos ao olho nú. Um dos golpes mais conhecidos é do controle que consiste em o usuário criar fios invisíveis, assim então podendo controlar o corpo da outra pessoa, este fruto também dá a capacidade de prender seus fios em nuvens , fazendo assim o usuário 'voar'.",
+            "card-user": "Donquixote Doflamingo"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/JikiJiki.png",
+         "card-title": "Jiki Jiki no Mi",
+         "card-description": {
+            "card-translate": "Fruta do Magnetismo",
+            "card-type": "Paramecia",
+            "card-desc": "Permite o usuário manipular as forças magnéticas e o metal a vontade, transformado o usuário em um Homem-Magnetismo (磁気人間 Jiki Ningen).",
+            "card-user": "Eutass 'Captain' Kidd"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/KageKage.png",
+         "card-title": "Kage Kage no Mi",
+         "card-description": {
+            "card-translate": "Fruta da Sombra",
+            "card-type": "Paramecia",
+            "card-desc": "Permite o usuário a capacidade de manifestar e controlar sombras, como uma forma física tangível, tornando o usuário um governante das sombras (影 の 支配 者 Kage no Shihaisha).",
+            "card-user": "Gecko Moriah"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/KiroKiro.png",
+         "card-title": "Kiro Kiro no Mi",
+         "card-description": {
+            "card-translate": "Fruta do Kilograma",
+            "card-type": "Paramecia",
+            "card-desc": "Permite ao usuário alterar seu peso de 1 a 10.000 kg, sem de forma alguma, afetar o tamanho geral dos corpos deles.",
+            "card-user": "Mikita  (Miss Valentine) - Baroque Works"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/MeraMera.png",
+         "card-title": "Mera Mera do Mi",
+         "card-description": {
+            "card-translate": "Fruta do Fogo",
+            "card-type": "Logia",
+            "card-desc": "Permite ao usuário criar, controlar e se transformar em chamas à vontade.",
+            "card-user": "Sabo"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/MeroMero.png",
+         "card-title": "Mero Mero no Mi",
+         "card-description": {
+            "card-translate": "Fruta da Paixão (?)",
+            "card-type": "Paramecia",
+            "card-desc": "Permite ao usuário o poder de transformar qualquer ser humano, que tenha pensamentos luxuriosos ou apaixonados, em pedra.",
+            "card-user": "Boa Hancock"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/MochiMochi.png",
+         "card-title": "Mochi Mochi no Mi",
+         "card-description": {
+            "card-translate": "Fruta do Mochi",
+            "card-type": "Paramecia Especial",
+            "card-desc": "Permite ao usuário criar, controlar e se transformar em massa. Mochi é um doce japonês feito de arroz.",
+            "card-user": "Charlotte Katakuri"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/MokuMoku.png",
+         "card-title": "Moku Moku no Mi",
+         "card-description": {
+            "card-translate": "Fruta da Fumaça",
+            "card-type": "Logia",
+            "card-desc": "Permite ao usuário criar, controlar e se transformar em fumaça à vontade, fazendo do usuário um Humano de Fumaça (煙人間, Kemuri Ningen).",
+            "card-user": "Smoker"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/OpeOpe.png",
+         "card-title": "Ope Ope no Mi",
+         "card-description": {
+            "card-translate": "Fruta da 'Operação'",
+            "card-type": "Paramecia Suprema",
+            "card-desc": "Permite ao usuário criar um espaço esférico ou 'sala', no qual o usuário tem total controle sobre o posicionamento e orientação dos objetos dentro dele, tornando-o um Humano de Livre Modificação (改造自在人間 Kaizō Jizai Ningen). Também conhecida como a Akuma no Mi suprema, onde até o momento de codificação (02/05/23) não se sabe o porque, apenas que além de todas as habilidades mostradas e relatadas, pode conceder a 'Juventude Perene', uma juventude eterna à alguém, porém em troca da vida do usuário da Ope ope no Mi.",
+            "card-user": "Trafalgar D. Water Law"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/SubeSube.png",
+         "card-title": "Sube Sube no Mi",
+         "card-description": {
+            "card-translate": "Fruta da Pele Lisa (?)",
+            "card-type": "Paramecia",
+            "card-desc": "Permite torna o corpo do usuário escorregadio, o que por sua vez faz com que a maioria dos ataques e todos os objetos escorreguem de seu corpo, protegendo o usuário de danos na maioria das situações. Como visto com Alvida, se alguém está acima do peso de alguma forma, eles ficarão magros fazendo com que o excesso de gordura 'escorregue'.",
+            "card-user": "Alvida"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/SunaSuna.png",
+         "card-title": "Suna Suna no Mi",
+         "card-description": {
+            "card-translate": "Fruta da Areia",
+            "card-type": "Logia",
+            "card-desc": "Permite ao usuário criar, controlar e se transformar em areia à vontade, fazendo do usuário um Humano de Areia (砂人間 Suna Ningen).",
+            "card-user": "Crocodile"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/UoUo-ModelSeiryu.png",
+         "card-title": "Uo Uo no Mi - Model: Seiryu",
+         "card-description": {
+            "card-translate": "Fruta do Peixe: Modelo Dragão Azul",
+            "card-type": "Zoan Mítica",
+            "card-desc": "Permite ao usuário se transformar em uma forma híbrida e completa de um Dragão Azul à vontade.",
+            "card-user": "Kaido"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/UshiUshi-ModelBison.png",
+         "card-title": "Ushi Ushi no Mi - Model: Bizon",
+         "card-description": {
+            "card-translate": "Fruta do Boi - Modelo Bisão",
+            "card-type": "Zoan",
+            "card-desc": "Permite ao usuário transformar em um bisão híbrido e em um bisão completo à vontade. 'Ushi' em japonês é 'vaca' ou 'boi, e bisões são parte da mesma subfamília como vacas.",
+            "card-user": "Dalton"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/ushiUshi-ModelGiraffe.png",
+         "card-title": "Ushi Ushi no Mi: Model: Girrafe",
+         "card-description": {
+            "card-translate": "Fruta do Boi - Modelo Girafa",
+            "card-type": "Zoan",
+            "card-desc": "Permite ao usuário transformar-se em um híbrido (metade girafa e metade humanoide) ou em uma girafa completa à vontade, fazendo o usuário um Humano Girafa (? キ リ ン 人間 Kirin Ningen) 'Ushi' em japonês significa 'vaca' ou 'boi', e girafas estão na mesma ordem das vacas.",
+            "card-user": "Kaku (CP9 / CP0)"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/YamiYami.png",
+         "card-title": "Yami Yami no Mi",
+         "card-description": {
+            "card-translate": "Fruta da Escuridão/Trevas",
+            "card-type": "Logia",
+            "card-desc": "Permite ao usuário criar e controlar as trevas à vontade, tornando-o um Homem-Trevas (闇人間 Yami Ningen).",
+            "card-user": "Marshall D. Teach"
+         }
+      },
+
+      {
+         "card-img": "../assets/AnM/YomiYomi.png",
+         "card-title": "Yomi Yomi no Mi",
+         "card-description": {
+            "card-translate": "Fruta da Ressurreição",
+            "card-type": "Paramecia",
+            "card-desc": "Permite ao usuário voltar à vida depois de morrer. O nome é derivado de Yomigaeru, que significa 'Ressurreição', ou, propriamente dito, Yomi, é o nome do submundo japonês.",
+            "card-user": "Brook"
+         }
+      }
+   ]
+}

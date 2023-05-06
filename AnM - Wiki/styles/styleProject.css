@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body { font-family: 'Roboto', sans-serif; }
+
+::-webkit-scrollbar { /* Background da Barra de Rolagem */
+   width: 8px;
+   border-radius: 8px;
+   background-color: #6D98E8; 
+}
+
+::-webkit-scrollbar-thumb { /* Barra de Rolagem  */
+   /* background-color: #C1C7E0; Barra de Rolagem */
+   background: linear-gradient(102.68deg, #FEFEFE 4.59%, #0038A5 47.75%, #D52B1E 97.7%);
+   border: 2px solid transparent;
+   border-image: linear-gradient(157.01deg, #081C65 14.89%, #13ADDF 112.37%);
+   border-image-slice: 1;
+   scroll-behavior: smooth;
+   border-radius: 8px;
+   cursor: pointer;
+}
+
+.root {
+   border: 1px solid green;
+   width: 100%;
+   /* height: 100vh; */
+   /* justify-content: space-between */
+}
+
+header {
+   background-color: #6D98E8;
+}
+
+header nav a {
+
+}
+
+header nav a:hover {
+   background-color: rgba(255, 255, 255, 0.15);
+}
+
+main {
+  
+}
+
+.container {
+   overflow: auto;
+   padding-bottom: 0px;
+}
+
+main .card:nth-last-child(){
+   margin-bottom: 0px;
+}
+
+.card-container {
+   width: 260px;
+   height: 480px;
+   font-weight: 500;
+   transition: all ease .75s;
+}
+
+.card-container:hover {
+   border: 1px solid #18191A;
+}
+
+.card-translate {
+   /* font-size: 14px; */
+}
+
+.card-desc span {
+   overflow: auto;
+   height: 175px;
+   text-align: center;
+   border: 1px solid greenyellow;
+}
+
+.card-img img {
+   width: 120px;
+   height: 150px;
+}
+
+.bg-gradient-blue {
+   background: linear-gradient(157.01deg, #081C65 14.89%, #13ADDF 112.37%);
+}
+
+.text-gradient-blue {
+   color: transparent;
+   background-image: linear-gradient(157.01deg, #081C65 14.89%, #13ADDF 112.37%);
+   background-clip: text;
+   -webkit-background-clip: text;
+}
+
+.text-gradient-red {
+   color: transparent;
+   background-image: linear-gradient(157.72deg, #202225 49.58%, #BB2D3B 92.59%);
+   background-clip: text;
+   -webkit-background-clip: text;
+}
+
+.text-russin-gradient {
+   background: linear-gradient(102.68deg, #FEFEFE 4.59%, #0038A5 47.75%, #D52B1E 97.7%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   background-clip: text;
+   text-fill-color: transparent;
+}
+
+.russianGradient {
+   background: linear-gradient(102.68deg, #FEFEFE 4.59%, #0038A5 47.75%, #D52B1E 97.7%);
+}
+
+.border-gradient-blue {
+   border: 2px solid transparent;
+   border-radius: 4px;
+   border-image: linear-gradient(157.01deg, #081C65 14.89%, #13ADDF 112.37%);
+   border-image-slice: 1;
+}
